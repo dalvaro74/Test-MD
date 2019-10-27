@@ -1,8 +1,5 @@
 # Test-MD
 Este repositorio solo contendra un README.md muy chulo (Copiado del gran Fran Asensi -> Dynam1co)
-# Práctica Big Data Processing. 
-
-Este proyecto escrito en Scala corresponde a la práctica que tuve que presentar como para el módulo Big Data Processing del BootCamp de Big Data & Machine Learning que cursé en KeepCoding en 2019/2020.
 
 ## Comenzando 🚀
 
